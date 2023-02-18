@@ -1,8 +1,8 @@
 package com.harrontech.ec_records.integration
 
-import com.harrontech.model.CityObject
-import com.harrontech.repository.CityObjectRepository
-import com.harrontech.service.CityObjectService
+import com.harrontech.ec_records.model.CityObject
+import com.harrontech.ec_records.repository.CityObjectRepository
+import com.harrontech.ec_records.service.CityObjectService
 import org.hamcrest.MatcherAssert.assertThat
 import org.junit.jupiter.api.Test
 import org.mockito.kotlin.mock

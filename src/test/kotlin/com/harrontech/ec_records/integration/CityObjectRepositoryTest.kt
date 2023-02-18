@@ -1,7 +1,7 @@
 package com.harrontech.ec_records.integration
 
-import com.harrontech.model.CityObject
-import com.harrontech.repository.CityObjectRepository
+import com.harrontech.ec_records.model.CityObject
+import com.harrontech.ec_records.repository.CityObjectRepository
 import org.hamcrest.CoreMatchers.`is`
 import org.hamcrest.CoreMatchers.notNullValue
 import org.hamcrest.MatcherAssert.assertThat

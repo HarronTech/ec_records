@@ -2,9 +2,9 @@ package com.harrontech.ec_records.integration
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule
-import com.harrontech.controller.CityObjectController
-import com.harrontech.model.CityObject
-import com.harrontech.repository.CityObjectRepository
+import com.harrontech.ec_records.controller.CityObjectController
+import com.harrontech.ec_records.model.CityObject
+import com.harrontech.ec_records.repository.CityObjectRepository
 import org.hamcrest.CoreMatchers
 import org.hamcrest.MatcherAssert
 import org.junit.jupiter.api.Test
